@@ -1,0 +1,8 @@
+D:\Asecurity\clush\clush\bin\Release\clush.exe.config
+D:\Asecurity\clush\clush\bin\Release\clush.exe
+D:\Asecurity\clush\clush\bin\Release\clush.pdb
+D:\Asecurity\clush\clush\obj\Release\clush.exe
+D:\Asecurity\clush\clush\obj\Release\clush.pdb
+D:\asecurity\clush\clush\bin\Release\Newtonsoft.Json.dll
+D:\asecurity\clush\clush\bin\Release\Newtonsoft.Json.xml
+D:\asecurity\clush\clush\obj\Release\clush.csprojResolveAssemblyReference.cache

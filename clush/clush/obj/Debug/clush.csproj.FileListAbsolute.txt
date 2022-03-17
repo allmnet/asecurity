@@ -1,0 +1,8 @@
+D:\Asecurity\clush\clush\bin\Debug\clush.exe.config
+D:\Asecurity\clush\clush\bin\Debug\clush.exe
+D:\Asecurity\clush\clush\bin\Debug\clush.pdb
+D:\Asecurity\clush\clush\obj\Debug\clush.exe
+D:\Asecurity\clush\clush\obj\Debug\clush.pdb
+D:\asecurity\clush\clush\bin\Debug\Newtonsoft.Json.dll
+D:\asecurity\clush\clush\bin\Debug\Newtonsoft.Json.xml
+D:\asecurity\clush\clush\bin\Debug\dnsclush.exe.config
