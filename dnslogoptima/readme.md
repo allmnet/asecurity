@@ -1,4 +1,3 @@
-
 #dnslogoptima
 1. dnslogoptima can record all dns query. All activity log send syslog server, which you may analyze at any time.
 2. reliable program that can log and analyze by malware site visit on dns server.
