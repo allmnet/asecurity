@@ -6,7 +6,6 @@
 The software can monitor your dns all query the who were visit, in an syslog.
 You can easily install service or run console mode.
 
-
 ##Option
 -server:    define Syslog server ip.
 -time:  setting to delete DNS log timerDNS. if input the ‘0’ or not define  -time option, never delete DNS log.
